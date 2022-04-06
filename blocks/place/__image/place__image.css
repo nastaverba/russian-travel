@@ -3,9 +3,5 @@
   object-fit: cover;
   -o-object-position: center center;
   object-position: center center;
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
   width: 100%;
 }
